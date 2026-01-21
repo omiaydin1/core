@@ -46,6 +46,7 @@ git clone git@github.com:lens-protocol/core.git
 
 Follow the instructions from [their repository](https://book.getfoundry.sh/getting-started/installation) or just do:
 
+
 ```
 curl -L https://foundry.paradigm.xyz | bash
 ```
